@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Majkyc
-- 👀 I’m interested in Coding and Creating Games on Roblox Studio atd.
-- 🌱 I’m currently learning Coding doing games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Wsp, I'm a Czech FiveM and Roblox Developer
+- Now I'm Active at FiveM Script Developing
+- I have My own discord Named "𝙆𝙐𝘾𝙄𝙄𝙆 | Scripts" Join https://discord.gg/uCHzJdUYZy
+- Scripting 4 Life
 
 <!---
 Majkyc/Majkyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
