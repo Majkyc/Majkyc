@@ -1,6 +1,6 @@
 - Wsp, I'm a Czech FiveM and Roblox Developer
 - Now I'm Active at FiveM Script Developing
-- I have My own discord Named "𝙆𝙐𝘾𝙄𝙄𝙆 | Scripts" Join https://discord.gg/uCHzJdUYZy
+- Currently Creator on Nova Core; discord = https://discord.gg/RRPWTa3nFw
 - Scripting 4 Life
 
 <!---
