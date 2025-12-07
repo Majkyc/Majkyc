@@ -1,6 +1,5 @@
 - Wsp, I'm a Czech FiveM and Roblox Developer
 - Now I'm Active at FiveM Script Developing
-- Currently Creator on Nova Core; discord = https://discord.gg/RRPWTa3nFw
 - Scripting 4 Life
 
 <!---
